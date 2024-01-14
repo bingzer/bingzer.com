@@ -12,8 +12,8 @@ body {
 }
 
 #hero-logo {    
-    width: 750px;
-    height: 210px;
+    width: 350px;
+    height: 96px;
     background: url(../img/logo-light.png) no-repeat;
     background-size: cover;
     position: absolute;
